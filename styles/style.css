@@ -91,6 +91,10 @@ h3 {
 .data-container p {
     margin: 5px;
 }
+.data-container a {
+    text-decoration: none;
+    color: black;
+}
 .data-img-container {
     margin: 10px;
 }
@@ -105,13 +109,13 @@ h3 {
     align-items: center;
 }
 #main-content p, #main-content li {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 #main-content .main-area {
     min-width: 75%;
 }
 .margin-subcontainer {
-    margin: 30px 20px;
+    margin: 10px 20px;
 }
 .padding-subcontainer {
     padding: 10px;
@@ -121,7 +125,7 @@ h3 {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 20px 0
+    padding: 10px 0
 }
 .border-left {
     margin-left: 30px;
