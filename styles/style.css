@@ -161,6 +161,9 @@ h3 {
     flex-direction: column;
 }
 #download {
-    background-color: transparent;
-    border: none;
+    margin: auto;
+    background-color: red;
+    border: solid 1px blue;
+    border-radius: 5px;
+    padding: 10px;
 }
