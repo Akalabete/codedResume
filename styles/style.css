@@ -102,6 +102,20 @@ h3 {
     border: dashed 4px blanchedalmond;
     border-radius: 25px;
 }
+.skills-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.skills-list i,
+.skills-list img {
+    margin-right: 20px;
+    min-width: 20px;
+}
+
 .ico-container {
     width: 3vw;
     display: flex;
